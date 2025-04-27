@@ -1,0 +1,83 @@
+[
+    {
+        "propertyName": "Sunset Villas",
+        "tenent": "John Doe",
+        "rent": "$1,200",
+        "lease": "12 months",
+        "size": "850 sqft",
+        "financing": "Mortgage",
+        "address": "123 Palm Street, Los Angeles, CA"
+    },
+    {
+        "propertyName": "Lakeview Heights",
+        "tenent": "Emily Stone",
+        "rent": "$1,500",
+        "lease": "6 months",
+        "size": "950 sqft",
+        "financing": "Cash",
+        "address": "456 Lake Road, Austin, TX"
+    },
+    {
+        "propertyName": "Maplewood Apartments",
+        "tenent": "Carlos Rivera",
+        "rent": "$1,100",
+        "lease": "12 months",
+        "size": "780 sqft",
+        "financing": "Mortgage",
+        "address": "789 Maple Ave, Denver, CO"
+    },
+    {
+        "propertyName": "Ocean Breeze Condos",
+        "tenent": "Sarah Lee",
+        "rent": "$2,000",
+        "lease": "24 months",
+        "size": "1020 sqft",
+        "financing": "Loan",
+        "address": "321 Shoreline Blvd, Miami, FL"
+    },
+    {
+        "propertyName": "Mountain Ridge",
+        "tenent": "Michael Chen",
+        "rent": "$950",
+        "lease": "Month-to-month",
+        "size": "700 sqft",
+        "financing": "Owner-financed",
+        "address": "654 Hilltop Lane, Boulder, CO"
+    },
+    {
+        "propertyName": "Downtown Lofts",
+        "tenent": "Lisa Nguyen",
+        "rent": "$1,800",
+        "lease": "12 months",
+        "size": "1000 sqft",
+        "financing": "Cash",
+        "address": "987 Main St, Seattle, WA"
+    },
+    {
+        "propertyName": "Parkside Homes",
+        "tenent": "David Kim",
+        "rent": "$1,300",
+        "lease": "18 months",
+        "size": "900 sqft",
+        "financing": "Mortgage",
+        "address": "135 Greenway Dr, Portland, OR"
+    },
+    {
+        "propertyName": "The Grove Residences",
+        "tenent": "Rachel Patel",
+        "rent": "$1,700",
+        "lease": "6 months",
+        "size": "920 sqft",
+        "financing": "Loan",
+        "address": "246 Oak Street, San Diego, CA"
+    },
+    {
+        "propertyName": "Riverside Flats",
+        "tenent": "Tom Brooks",
+        "rent": "$1,250",
+        "lease": "Month-to-month",
+        "size": "860 sqft",
+        "financing": "Mortgage",
+        "address": "369 River Rd, Nashville, TN"
+    }
+]
